@@ -1,6 +1,6 @@
-# Project Title
+# Version Control Assignment
 
-This project is created to practice Git and GitHub basics.
+This Assignment is created to practice Git and GitHub basics.
 It helps understand version control, commits, and collaboration.
 
 ## Features
